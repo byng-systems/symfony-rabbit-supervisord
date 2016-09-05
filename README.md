@@ -96,5 +96,4 @@ Finally we restart supervisord and we're good to go :)
 
 # Contributors
 
-@tiagoblackcode
-@nunojsferreira
+[@tiagoblackcode](https://github.com/tiagoblackcode)
